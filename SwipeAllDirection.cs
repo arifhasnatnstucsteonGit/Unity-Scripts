@@ -91,13 +91,13 @@ public class SwipeDetector : MonoBehaviour
 	void OnSwipeLeft ()
 	{
         //Do something when swiped left
-        xPos = -1;
+       
     }
 
 	void OnSwipeRight ()
 	{
         //Do something when swiped right
-        xPos = 1;
+     
     }
 }
 
